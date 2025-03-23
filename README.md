@@ -1,87 +1,133 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Blockchain%20Developer;Full-stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=UTXO%20Blockchain%20Developer;Bitcoin%20%26%20Dogecoin%20Developer;Ordinals%20Protocol%20Expert&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Social badges section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-Core-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dogecoin-Core-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ordinals-Protocol-FF6B6B?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+</div>
+
+<h2 align="center">⛓️ UTXO Blockchain Expertise</h2>
+
+<h3 align="center">🔑 Core Competencies</h3>
+
 <p align="center">
-  <a href="https://github.com/hieusats?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hieusats?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/hieusats?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hieusats?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="UTXO Model" src="https://img.shields.io/badge/UTXO-Model-2ea44f?style=flat-square"/>
+    <img alt="Script" src="https://img.shields.io/badge/Bitcoin-Script-F7931A?style=flat-square"/>
+    <img alt="P2PKH" src="https://img.shields.io/badge/P2PKH-Protocol-blue?style=flat-square"/>
+    <img alt="P2SH" src="https://img.shields.io/badge/P2SH-Protocol-blue?style=flat-square"/>
+    <img alt="SegWit" src="https://img.shields.io/badge/SegWit-Protocol-blue?style=flat-square"/>
+    <img alt="Lightning" src="https://img.shields.io/badge/Lightning-Network-792EE5?style=flat-square"/>
 </p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">👨‍💻 Programming Languages</h3>
+<h3 align="center">🛠️ Development Tools</h3>
 
 <p align="center">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white">
-    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white">
+    <img alt="Bitcoin Core" src="https://img.shields.io/badge/Bitcoin-Core-F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img alt="RPC" src="https://img.shields.io/badge/Bitcoin-RPC-F7931A?style=flat-square"/>
 </p>
 
-<h3 align="center">🧰 Frameworks & Tools</h3>
+<h3 align="center">🔗 Protocol Development</h3>
 
 <p align="center">
-    <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
+    <img alt="Ordinals" src="https://img.shields.io/badge/Ordinals-Protocol-FF6B6B?style=flat-square"/>
+    <img alt="Taproot" src="https://img.shields.io/badge/Taproot-Protocol-2ea44f?style=flat-square"/>
+    <img alt="BRC20" src="https://img.shields.io/badge/BRC20-Token-F7931A?style=flat-square"/>
+    <img alt="Atomic Swaps" src="https://img.shields.io/badge/Atomic-Swaps-792EE5?style=flat-square"/>
 </p>
 
-<h3 align="center">🔗 Blockchain & DeFi</h3>
+<h2 align="center">📊 Development Stats</h2>
 
 <p align="center">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white">
-    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white">
-    <img alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?logo=binance&logoColor=white">
-    <img alt="DeFi" src="https://img.shields.io/badge/DeFi-16FF00?logo=defi&logoColor=white">
-    <img alt="NFT" src="https://img.shields.io/badge/NFT-6364FF?logo=nft&logoColor=white">
-</p>
-
-<h2 align="center">📊 Github Stats</h2>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="hieusats's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hieusats&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="hieusats's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieusats&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-</p>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="hieusats's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hieusats&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/hieusats/rbnb-mine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hieusats&repo=rbnb-mine&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/hieusats/wonky-ord-junkcoin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hieusats&repo=wonky-ord-junkcoin&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=hieusats&theme=radical&row=1&column=6" alt="Trophy" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/hieusats/python-web3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hieusats&repo=python-web3&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/hieusats/inscription">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hieusats&repo=inscription&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=hieusats&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieusats&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,html">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hieusats&theme=radical&hide_border=true&background=EB545400" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieusats&theme=radical" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieusats&theme=redical&bg_color=00000000&hide_border=true" width="100%"/>
+</p>
+
+<h3 align="center">🌐 UTXO Network Contributions</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Bitcoin-Development-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+      <br />
+      • Core Protocol Development<br />
+      • Transaction Script Writing<br />
+      • UTXO Management
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Dogecoin-Development-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"/>
+      <br />
+      • Core Implementation<br />
+      • Network Optimization<br />
+      • Protocol Enhancement
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Ordinals-Protocol-FF6B6B?style=for-the-badge"/>
+      <br />
+      • Inscription Development<br />
+      • Protocol Implementation<br />
+      • Standard Compliance
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">⚡ Core Skills</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/>
+      <br />Rust
+    </td>
+    <td align="center">
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
+      <br />C++
+    </td>
+    <td align="center">
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+      <br />Python
+    </td>
+    <td align="center">
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+      <br />Java
+    </td>
+    <td align="center">
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+      <br />Git
+    </td>
+    <td align="center">
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+      <br />GitHub
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hieusats&style=for-the-badge&color=red" alt="Profile views" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hieusats&color=blue&style=flat" alt="Profile views"/>
-</p> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div> 
