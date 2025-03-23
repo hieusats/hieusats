@@ -1,46 +1,91 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=UTXO%20Blockchain%20Developer;Bitcoin%20%26%20Dogecoin%20Developer;Ordinals%20Protocol%20Expert&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=UTXO%20%26%20Scrypt%20Blockchain%20Developer;DRC-20%20Protocol%20Expert;Doginals%20Ecosystem%20Builder&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Bitcoin-Core-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dogecoin-Core-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ordinals-Protocol-FF6B6B?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrypt-Mining-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRC--20-Protocol-FF6B6B?style=for-the-badge&logo=dogecoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Doginals-Expert-00CED1?style=for-the-badge&logo=dogecoin&logoColor=white"/>
 </div>
 
-<h2 align="center">⛓️ UTXO Blockchain Expertise</h2>
+<h2 align="center">⛓️ Blockchain Expertise</h2>
 
 <h3 align="center">🔑 Core Competencies</h3>
 
 <p align="center">
-    <img alt="UTXO Model" src="https://img.shields.io/badge/UTXO-Model-2ea44f?style=flat-square"/>
-    <img alt="Script" src="https://img.shields.io/badge/Bitcoin-Script-F7931A?style=flat-square"/>
-    <img alt="P2PKH" src="https://img.shields.io/badge/P2PKH-Protocol-blue?style=flat-square"/>
-    <img alt="P2SH" src="https://img.shields.io/badge/P2SH-Protocol-blue?style=flat-square"/>
-    <img alt="SegWit" src="https://img.shields.io/badge/SegWit-Protocol-blue?style=flat-square"/>
-    <img alt="Lightning" src="https://img.shields.io/badge/Lightning-Network-792EE5?style=flat-square"/>
+    <img alt="Scrypt Mining" src="https://img.shields.io/badge/Scrypt-Mining-C2A633?style=flat-square"/>
+    <img alt="ASIC Development" src="https://img.shields.io/badge/ASIC-Development-2ea44f?style=flat-square"/>
+    <img alt="Memory Hard PoW" src="https://img.shields.io/badge/Memory_Hard-PoW-blue?style=flat-square"/>
+    <img alt="Merged Mining" src="https://img.shields.io/badge/Merged-Mining-blue?style=flat-square"/>
+    <img alt="Mining Pools" src="https://img.shields.io/badge/Mining-Pools-792EE5?style=flat-square"/>
 </p>
 
-<h3 align="center">🛠️ Development Tools</h3>
+<h3 align="center">🛠️ Protocol Development</h3>
 
 <p align="center">
-    <img alt="Bitcoin Core" src="https://img.shields.io/badge/Bitcoin-Core-F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img alt="RPC" src="https://img.shields.io/badge/Bitcoin-RPC-F7931A?style=flat-square"/>
+    <img alt="DRC-20" src="https://img.shields.io/badge/DRC--20-Protocol-FF6B6B?style=flat-square"/>
+    <img alt="Doginals" src="https://img.shields.io/badge/Doginals-Inscription-00CED1?style=flat-square"/>
+    <img alt="Token Standards" src="https://img.shields.io/badge/Token-Standards-F7931A?style=flat-square"/>
+    <img alt="UTXO" src="https://img.shields.io/badge/UTXO-Model-2ea44f?style=flat-square"/>
 </p>
 
-<h3 align="center">🔗 Protocol Development</h3>
+<h3 align="center">⚒️ Mining Infrastructure</h3>
 
-<p align="center">
-    <img alt="Ordinals" src="https://img.shields.io/badge/Ordinals-Protocol-FF6B6B?style=flat-square"/>
-    <img alt="Taproot" src="https://img.shields.io/badge/Taproot-Protocol-2ea44f?style=flat-square"/>
-    <img alt="BRC20" src="https://img.shields.io/badge/BRC20-Token-F7931A?style=flat-square"/>
-    <img alt="Atomic Swaps" src="https://img.shields.io/badge/Atomic-Swaps-792EE5?style=flat-square"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Scrypt-Algorithm-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"/>
+      <br />
+      • Memory-Hard Algorithm<br />
+      • ASIC Optimization<br />
+      • Energy Efficient Mining
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/DRC--20-Development-FF6B6B?style=for-the-badge"/>
+      <br />
+      • Token Deployment<br />
+      • Smart Inscriptions<br />
+      • Protocol Standards
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Mining-Infrastructure-00CED1?style=for-the-badge"/>
+      <br />
+      • Pool Management<br />
+      • Hash Rate Optimization<br />
+      • Network Security
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🔧 Technical Specifications</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h4>Scrypt Mining</h4>
+      • Memory-Hard KDF<br />
+      • ASIC Integration<br />
+      • Merged Mining Support<br />
+      • Power Optimization
+    </td>
+    <td align="center" width="33%">
+      <h4>DRC-20 Protocol</h4>
+      • Token Deployment<br />
+      • Supply Management<br />
+      • Transfer Operations<br />
+      • Mint Limitations
+    </td>
+    <td align="center" width="33%">
+      <h4>Infrastructure</h4>
+      • Pool Architecture<br />
+      • Network Security<br />
+      • Hash Distribution<br />
+      • Reward Systems
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">📊 Development Stats</h2>
 
